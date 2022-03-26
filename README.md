@@ -27,5 +27,5 @@ My name is Peterson. How is your day going ? :smile:
   <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/>
 </a>
 <a href = 'mailto:peterson@orchatek.com'> 
-Email Me: Peterson@orchatek.com
+  <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/>
 </a>
