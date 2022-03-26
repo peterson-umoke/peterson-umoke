@@ -26,6 +26,6 @@ My name is Peterson. How is your day going ? :smile:
 <a href = 'https://twitter.com/bpviruse'> 
   <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/>
 </a>
-<a href = 'mail:peterson@orchatek.com'> 
+<a href = 'mailto:peterson@orchatek.com'> 
 Email Me: Peterson@orchatek.com
 </a>
