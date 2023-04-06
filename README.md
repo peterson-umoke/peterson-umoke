@@ -4,8 +4,6 @@ My name is Peterson. How is your day going ? :smile:
 
 <h2> About Me </h2>
 
-- 🔭 I’m currently working on ... NFT Projects, A Music and Movie Distribution Platform
-- 🌱 I’m currently learning Unity
 - 👯 I’m looking to collaborate on Open Source, Proprietary and Closed Source Projects
 - 💬 Ask me about Laravel, Flutter, Angular
 - 📫 How to reach me: peterson@orchatek.com
