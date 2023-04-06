@@ -6,7 +6,7 @@ My name is Peterson. How is your day going ? :smile:
 
 - 👯 I’m looking to collaborate on Open Source, Proprietary and Closed Source Projects
 - 💬 Ask me about Laravel, Flutter, Angular
-- 📫 How to reach me: peterson@orchatek.com
+- 📫 How to reach me: umoke5@outlook.com
 - ⚡ Fun fact: ... A shoe spelt backwards is just random letters 😂
 
 <h2> Skills </h2>
