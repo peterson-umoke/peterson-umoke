@@ -19,11 +19,3 @@ My name is Peterson. How is your day going ? :smile:
 <a href=# > <img width ='32px' src ='https://angular.io/assets/images/logos/angular/angular.svg'> </a>
 <a href=# > <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png?20220125121207'> </a>
 <a href=# > <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1024px-Vue.js_Logo_2.svg.png?20170919082558'> </a>
-
-<h2> First Let Get that problem fixed. </h2>
-<a href = 'https://twitter.com/bpviruse'> 
-  <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/>
-</a>
-<a href = 'mailto:peterson@orchatek.com'> 
-  <img width = '32px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Send-email.svg/1500px-Send-email.svg.png?20120913135947"/>
-</a>
